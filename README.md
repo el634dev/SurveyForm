@@ -1,2 +1,2 @@
 # SurveyForm
-Used HTML CSS to create a survey form
+Used HTML CSS to create a survey form clone
